@@ -1,0 +1,1 @@
+{"name":"conrnavirus","version":"1.0.0","description":"","main":"index.js","scripts":{"dev":"next","build":"next build","start":"next"},"author":"","license":"ISC","dependencies":{"antd":"^4.0.2","next":"^9.3.0","react":"^16.13.0","react-dom":"^16.13.0"},"readme":"ERROR: No README data found!","_id":"conrnavirus@1.0.0"}
